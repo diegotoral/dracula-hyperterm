@@ -2,7 +2,7 @@
 
 > A dark theme for [HyperTerm](https://hyperterm.org).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/sublime.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
