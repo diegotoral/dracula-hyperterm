@@ -1,0 +1,15 @@
+{
+  "name": "dracula-hyperterm",
+  "version": "0.0.1",
+  "description": "A dark theme to HyperTerm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dracula",
+    "hyperterm"
+  ],
+  "author": "Diego Toral",
+  "license": "MIT"
+}
